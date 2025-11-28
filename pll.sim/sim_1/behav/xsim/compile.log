@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PRG Files/pll/pll.srcs/sources_1/new/digital_controlled_oscillator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dco
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PRG Files/pll/pll.srcs/sources_1/new/frequency_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PRG Files/pll/pll.srcs/sources_1/new/loop_filter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module loop_filter
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PRG Files/pll/pll.srcs/sources_1/new/phase_detector.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module phase_detector
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PRG Files/pll/pll.srcs/sources_1/new/top_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_pll
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/PRG Files/pll/pll.srcs/sim_1/new/pll_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_pll_tb

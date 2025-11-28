@@ -1,0 +1,11 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+E:/PRG Files/pll/pll.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+E:/PRG Files/pll/pll.srcs/sim_1/new/pll_tb.v,1764162703,verilog,,,,digital_pll_tb,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/PRG Files/pll/pll.srcs/sources_1/new/digital_controlled_oscillator.v,1764163539,verilog,,E:/PRG Files/pll/pll.srcs/sources_1/new/frequency_divider.v,,dco,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/PRG Files/pll/pll.srcs/sources_1/new/frequency_divider.v,1764164217,verilog,,E:/PRG Files/pll/pll.srcs/sources_1/new/loop_filter.v,,divider,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/PRG Files/pll/pll.srcs/sources_1/new/loop_filter.v,1764163563,verilog,,E:/PRG Files/pll/pll.srcs/sources_1/new/phase_detector.v,,loop_filter,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/PRG Files/pll/pll.srcs/sources_1/new/phase_detector.v,1764161928,verilog,,E:/PRG Files/pll/pll.srcs/sources_1/new/top_module.v,,phase_detector,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+E:/PRG Files/pll/pll.srcs/sources_1/new/top_module.v,1764162006,verilog,,E:/PRG Files/pll/pll.srcs/sim_1/new/pll_tb.v,,digital_pll,,,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
